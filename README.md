@@ -18,5 +18,5 @@ coding
 ---
 
 ⭐ **Fun fact:** Aku suka banget bikin tampilan website yang simple tapi aesthetic 😍 
-salam kenal yahhhhh lup lupp kamuu
+https://github.com/LISAFITRIOKTAFIANA/Bigsewa-fix.git ( kode github web company )
 
