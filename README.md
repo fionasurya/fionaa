@@ -20,3 +20,6 @@ coding
 ⭐ **Fun fact:** Aku suka banget bikin tampilan website yang simple tapi aesthetic 😍 
 https://github.com/LISAFITRIOKTAFIANA/Bigsewa-fix.git ( kode github web company )
 
+FROM httpd:latest
+COPY . /usr/local/apache2/htdocs/
+
